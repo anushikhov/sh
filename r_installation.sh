@@ -12,3 +12,5 @@ sudo apt-get install libatlas3-base -y
 
 # https://cran.r-project.org/
 
+# To install Tidyverse
+sudo apt-get install r-cran-curl r-cran-openssl r-cran-xml2
