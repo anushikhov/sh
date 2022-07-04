@@ -1,5 +1,5 @@
 All function names and parameter types:  
-` readlef -Ws xxx.so | c++filt `   
+` readelf -Ws xxx.so | c++filt `   
 
 ` objdump -d xxx.so `   
 
